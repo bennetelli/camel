@@ -1,3 +1,4 @@
+[[box-component]]
 == Box Component
 
 *Available as of Camel version 2.14*
@@ -421,6 +422,8 @@ box:folders/endpoint?[options]
 |getRootFolder |root  | |com.box.sdk.BoxFolder
 
 |createFolder |create |parentFolderId, folderName |com.box.sdk.BoxFolder
+
+|createFolder |create |parentFolderId, path |com.box.sdk.BoxFolder
 
 |copyFolder |copy |folderId, destinationfolderId, [newName] |com.box.sdk.BoxFolder 
 

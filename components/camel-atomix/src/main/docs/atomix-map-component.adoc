@@ -1,3 +1,4 @@
+[[atomix-map-component]]
 == Atomix Map Component
 
 *Available as of Camel version 2.20*
@@ -44,7 +45,7 @@ The Atomix Map component supports 5 options which are listed below.
 The Atomix Map endpoint is configured using URI syntax:
 
 ----
-atomix-map:mapName
+atomix-map:resourceName
 ----
 
 with the following path and query parameters:

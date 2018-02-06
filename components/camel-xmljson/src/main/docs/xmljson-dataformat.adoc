@@ -1,4 +1,5 @@
-== XML JSon DataFormat
+[[xmljson-dataformat]]
+== XML JSon DataFormat (deprecated)
 
 *Available as of Camel version 2.10*
 
